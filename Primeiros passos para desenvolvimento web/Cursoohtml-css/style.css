@@ -1,0 +1,42 @@
+body {
+    background: #fcfcfc;
+    color: #505050 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    max-width: 900px;
+
+}
+
+#title, .subtitle, .posttitle{
+    color: #505050;
+}
+
+.posttitle{
+    font-size: 16px;
+    font-style: italic;
+}
+
+.post {
+    background: #fff;
+    padding: 15px;
+    border: 3px solid #000;
+    margin-block-end: 15px ;
+    border-radius: 5px;
+    text-align: justify;
+}
+a {
+    text-decoration: line-through;
+    color:#505050 
+}
+.img{
+    border-radius: 10px;
+}
+
+.contact_list{
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contact_list li a{
+    text-decoration: none;
+}
