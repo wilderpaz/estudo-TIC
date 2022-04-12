@@ -13,4 +13,5 @@ Arquivos de estudo sobre Tecnologia da Informação e Comunicação
 [Fontes do google](https://fonts.google.com/)
 [Base de dados para filmes](https://www.themoviedb.org/?language=pt-BR)
 [Criar ícones para sites](https://fontawesome.com/start)
+[Acessar ícones do ionicons](https://ionic.io/ionicons/usage)
 >>>>>>> 03573a00b393373330d42342854977c487e11063
